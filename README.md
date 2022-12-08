@@ -85,7 +85,6 @@ distData.filter(_ < 10).collect()
 ### Screenshots
 ![spark-cli](https://user-images.githubusercontent.com/85284506/206483164-2cf65aa1-9b2e-47f5-a19c-a016188fbae7.jpg)
 ![spark-shell](https://user-images.githubusercontent.com/85284506/206483175-2463c1f0-3e52-476a-a0cf-06761663af8f.jpg)
-
 ## PySpark
 
 ### Integrating PySpark with Jupyter Notebook
@@ -100,6 +99,7 @@ The PYSPARK_DRIVER_PYTHON points to Jupiter, while the PYSPARK_DRIVER_PYTHON_OPT
 Now, we can directly launch a Jupyter Notebook instance by running the pyspark command in the terminal.
 
 `$ pyspark`
+
 ![pyspark](https://user-images.githubusercontent.com/85284506/206484629-57b13b6e-84e8-4d46-a6cf-e26d8c93c061.jpg)
 
 To install findspark just type:
