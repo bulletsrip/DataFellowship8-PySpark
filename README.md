@@ -1,3 +1,11 @@
+# Apache Spark, PySpark, and SparkSQL
+
+![image](https://user-images.githubusercontent.com/85284506/207533871-48de7265-8150-4dd8-9699-4f33b097ddfd.png)
+
++ Installing Apache Spark on Linux
++ Installing PySpark and Integrating with Jupyter Notebook
++ Using PySpark (SparkSQL) as Data Analytics Framework
+
 # Installing Apache Spark on Linux Ubuntu
 
 ## Installing Java
